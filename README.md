@@ -61,3 +61,18 @@ Esses testes ajudaram a compreender na prática o conceito de **princípio do me
 ---
 
 Laboratório realizado como parte dos estudos de **Cloud Computing e AWS na Escola da Nuvem**.
+
+
+## Aprendizados
+
+Com este laboratório, consegui compreender melhor como o AWS IAM controla o acesso aos recursos da nuvem.
+
+Os principais aprendizados foram:
+
+- Criar e configurar políticas de senha
+- Trabalhar com usuários e grupos no IAM
+- Entender a diferença entre permissões de leitura e administração
+- Analisar políticas gerenciadas e políticas inline
+- Validar permissões utilizando diferentes usuários
+- Aplicar na prática o princípio do menor privilégio
+- Identificar erros de `Access Denied` e relacioná-los às permissões do usuário
